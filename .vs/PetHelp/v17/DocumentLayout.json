@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "D:\\Git\\PetHelp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|d:\\git\\pethelp\\backend\\src\\pethelp.domain\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|solutionrelative:backend\\src\\pethelp.domain\\models\\volunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|d:\\git\\pethelp\\backend\\src\\pethelp.domain\\models\\socialnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|solutionrelative:backend\\src\\pethelp.domain\\models\\socialnetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|d:\\git\\pethelp\\backend\\src\\pethelp.domain\\models\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|solutionrelative:backend\\src\\pethelp.domain\\models\\species.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|d:\\git\\pethelp\\backend\\src\\pethelp.domain\\models\\requisites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|solutionrelative:backend\\src\\pethelp.domain\\models\\requisites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|d:\\git\\pethelp\\backend\\src\\pethelp.domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|solutionrelative:backend\\src\\pethelp.domain\\models\\pet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|d:\\git\\pethelp\\backend\\src\\pethelp.domain\\models\\requisites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|solutionrelative:backend\\src\\pethelp.domain\\models\\requisites.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4DFA2939-A4C6-421B-A64A-3AB6149501ED}|backend\\src\\PetHelp.Domain\\PetHelp.Domain.csproj|d:\\git\\pethelp\\backend\\src\\pethelp.domain\\models\\helpstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,11 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "SocialNetwork.cs",
+              "DocumentMoniker": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\SocialNetwork.cs",
+              "RelativeDocumentMoniker": "backend\\src\\PetHelp.Domain\\Models\\SocialNetwork.cs",
+              "ToolTip": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\SocialNetwork.cs",
+              "RelativeToolTip": "backend\\src\\PetHelp.Domain\\Models\\SocialNetwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T18:06:33.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Volunteer.cs",
+              "DocumentMoniker": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\Volunteer.cs",
+              "RelativeDocumentMoniker": "backend\\src\\PetHelp.Domain\\Models\\Volunteer.cs",
+              "ToolTip": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\Volunteer.cs",
+              "RelativeToolTip": "backend\\src\\PetHelp.Domain\\Models\\Volunteer.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T17:45:54.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Requisites.cs",
               "DocumentMoniker": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\Requisites.cs",
               "RelativeDocumentMoniker": "backend\\src\\PetHelp.Domain\\Models\\Requisites.cs",
@@ -42,12 +76,11 @@
               "RelativeToolTip": "backend\\src\\PetHelp.Domain\\Models\\Requisites.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:40:05.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T14:40:05.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "HelpStatus.cs",
               "DocumentMoniker": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\HelpStatus.cs",
               "RelativeDocumentMoniker": "backend\\src\\PetHelp.Domain\\Models\\HelpStatus.cs",
@@ -55,12 +88,11 @@
               "RelativeToolTip": "backend\\src\\PetHelp.Domain\\Models\\HelpStatus.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:36:13.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T14:36:13.328Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Breed.cs",
               "DocumentMoniker": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\Breed.cs",
               "RelativeDocumentMoniker": "backend\\src\\PetHelp.Domain\\Models\\Breed.cs",
@@ -68,12 +100,11 @@
               "RelativeToolTip": "backend\\src\\PetHelp.Domain\\Models\\Breed.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-11T14:23:39.095Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-11T14:23:39.095Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Species.cs",
               "DocumentMoniker": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\Species.cs",
               "RelativeDocumentMoniker": "backend\\src\\PetHelp.Domain\\Models\\Species.cs",
@@ -86,13 +117,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Pet.cs",
               "DocumentMoniker": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\Pet.cs",
               "RelativeDocumentMoniker": "backend\\src\\PetHelp.Domain\\Models\\Pet.cs",
               "ToolTip": "D:\\Git\\PetHelp\\backend\\src\\PetHelp.Domain\\Models\\Pet.cs",
               "RelativeToolTip": "backend\\src\\PetHelp.Domain\\Models\\Pet.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAABKAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-11T13:21:16.719Z",
               "EditorCaption": ""
